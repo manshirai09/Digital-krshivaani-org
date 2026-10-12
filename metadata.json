@@ -1,0 +1,8 @@
+{
+  "name": "DigitalKrishvaani",
+  "description": "A smart farming platform providing crop recommendations, weather updates, soil health monitoring, and market guidance for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
